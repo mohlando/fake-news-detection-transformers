@@ -1,0 +1,16 @@
+Text,True Label,Predicted
+"The ocean is now ""much more acidic . . . than it has been for many millions of years.",Real,Fake
+"With only 67 bills or so passed into law, ""2013 was the least productive year in congressional histo",Fake,Real
+"Says $38 billion in spending cuts in federal budget compromise is ""less than $1 billion in real cuts",Fake,Real
+Americans haven't had a raise in 15 years.,Real,Fake
+Nine out of the 10 poorest states are Red states.,Real,Fake
+"U.S. global AIDS spending helped reduce ""political instability and violence"" by ""40 percent"" in reci",Fake,Real
+The New York state budget covers 96% of eligible preschoolers,Real,Fake
+"Tuberculosis recently passed ""HIV/AIDS as the leading infectious killer globally.",Real,Fake
+"For our next two years in my state, we will end with a structural surplus of $499 million.",Real,Fake
+"The GOP health care plan ""would allow health insurance companies to continue engaging in unfair and ",Real,Fake
+"We have cut ""our deficits by almost three-quarters.",Real,Fake
+"Congress has cut funding, has slashed funding, for veterans' benefits over these last years.",Fake,Real
+Only 2 percent of public high schools in the country offer PE classes.,Fake,Real
+"Says ""Ron Johnson is making excuses for rioters who tried to overthrow our government, even calling ",Real,Fake
+"Nearly 70 percent of all federal spending will go towards Social Security, Medicare, and Medicaid"" i",Fake,Real
